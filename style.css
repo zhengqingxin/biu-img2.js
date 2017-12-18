@@ -1,0 +1,9 @@
+.biu-img-container {
+  pointer-events: none;
+  z-index:111  
+}
+.biu-img2-item{
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
